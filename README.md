@@ -102,9 +102,6 @@ segment share, and payment methods.
 - **Dashboard**: Streamlit
 - **SQL**: Analysis queries compatible with SQLite/PostgreSQL/MySQL
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
